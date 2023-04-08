@@ -1,0 +1,6 @@
+run = "yabi main.bf && echo \n"
+
+entrypoint = "main.bf"
+
+[nix]
+channel = "stable-22_11"
